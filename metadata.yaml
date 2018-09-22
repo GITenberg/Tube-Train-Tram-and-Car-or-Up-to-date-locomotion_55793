@@ -1,16 +1,21 @@
 _repo: Tube-Train-Tram-and-Car-or-Up-to-date-locomotion_55793
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Preece, Llewellyn
     gutenberg_agent_id: '48516'
     url: http://www.gutenberg.org/2009/agents/48516
+covers:
+- cover_type: archival
+  image_path: 55793-h/images/cover.jpg
 creator:
   author:
     agent_name: Beavan, Arthur H.
     gutenberg_agent_id: '48515'
     url: http://www.gutenberg.org/2009/agents/48515
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55793#Tube-Train-Tram-and-Car-or-Up-to-date-locomotion
 gutenberg_issued: '2017-10-22'
 gutenberg_type: Text
 identifiers:
